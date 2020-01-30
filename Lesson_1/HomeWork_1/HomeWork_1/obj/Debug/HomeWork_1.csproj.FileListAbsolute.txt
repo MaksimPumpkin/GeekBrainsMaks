@@ -1,0 +1,7 @@
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe.config
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.pdb
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.csprojAssemblyReference.cache
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.csproj.CoreCompileInputs.cache
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.exe
+C:\Users\madam\Desktop\C# Lvl_2\Lesson_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.pdb
